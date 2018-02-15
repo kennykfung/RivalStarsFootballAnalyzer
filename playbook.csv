@@ -1,0 +1,39 @@
+# play,type,yard,recharge,player,chance
+Plunge,IR,2.3,4,RB;TE;C,1
+QB Sneak,IR,3.8,5,QB;TE;C,0.99
+Dive,IR,2.8,4,RB;TE;C,0.98
+Blast,IR,3.6,5,RB;TE;C,0.97
+QB Draw,IR,6.5,6,QB;RB;WR,0.96
+Veer,IR,2.8,3,RB;TE;C,0.95
+Fumblerooski,IR,6.5,6,QB;RB;C,0.94
+Counter,IR,3.7,5,QB;RB;TE,0.92
+Trap,IR,2.8,3,RB;TE;C,0.91
+TE Drag,SP,4.7,5,QB;TE;C,0.9
+45 Base,OR,6.8,5,RB;TE;C,0.89
+Sweep,OR,4,3,RB;TE;C,0.88
+Counter Trey,IR,5.7,5,RB;TE;C,0.87
+Reverse,OR,10.5,6,RB;WR;TE,0.86
+Slant,OR,4.9,4,RB;TE;C,0.85
+Off Tackle,OR,0,3,RB;TE;C,0.84
+Pitch,OR,4.9,4,QB;RB;TE,0.83
+Fake Handoff Toss,OR,7.9,5,QB;RB;C,0.82
+Statue of Liberty,OR,12.7,6,QB;RB;C,0.81
+End Round,OR,10.1,5,WR;TE;C,0.79
+Doublehitch,SP,13.4,5,QB;WR;TE,0.78
+Curls,SP,9.3,4,QB;WR;TE,0.77
+Double Pass,SP,18.9,6,QB;RB;WR,0.76
+Slants Middle,SP,10.3,4,QB;WR;TE,0.75
+Ouick Out,SP,11.3,3,QB;TE;C,0.74
+RB Screen,SP,16.4,5,RB;WR;TE,0.73
+Hook and Lateral,SP,21.9,6,RB;WR;TE,0.72
+Spot,SP,16.4,5,QB;WR;C,0.71
+RB Angle,SP,12.3,3,QB;RB;TE,0.7
+TE corner,LP,16.7,4,QB;WR;TE,0.69
+Strong Flood,LP,23.7,5,QB;RB;WR,0.68
+Streaks,LP,19,3,QB;WR;C,0.68
+Post Coners,LP,28,5,QB;WR;TE,0.68
+HalfBackPass,LP,36.5,6,RB;WR;C,0.68
+Deep Attack,LP,23.7,3,QB;WR;TE,0.68
+Deep Cross,LP,34.3,5,WR;TE;C,0.68
+Flea Flicker,LP,58.5,6,QB;RB;WR,0.68
+Hail Mary,LP,51.1,4,QB;WR;C,0.68
