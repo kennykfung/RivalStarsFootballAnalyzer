@@ -3,7 +3,6 @@ import time
 import sys
 import argparse
 
-
 class player(object):
 
     def __init__(self, player_name, IR_rating, OR_rating, SP_rating, LP_rating):
